@@ -10,6 +10,8 @@
 
 - ERROR jdg_db_nf odoo.addons.base.ir.ir_cron: Call of self.env[u'jdg.abstract.message'].make_market_message(*()) failed in Job #14
 
-解決：
+  解決：
 
 - ERROR: Named volume "jdg-node-center-sale_log:/log:rw" is used in service "jdg-node-center-sale_app" but no declaration was found in the volumes section.
+
+  解决：对应的volume文件名不一样，修改文件名后，启动。后续：新建一个对应的volume文件，然后启动成功。
