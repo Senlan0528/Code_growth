@@ -1,5 +1,5 @@
-# Python_growth
-记录一下我的python取经路，但其实说编程之路更为恰当。
+# Code_growth
+记录一下我的编程取经路，主要语言Pyhon。
 
 ## Python
 ## 数据库
