@@ -26,18 +26,18 @@
 
 ## Python
 
-### 基础阶段
+#### 基础阶段
 
 1. 基础语法。数据类型（值/引用）、作用域（scope）、keyword、builtin 函数等。
 2. 风格指引 https://laisky.github.io/style-guide-cn/style-guides/source-code-style-guides/
 3. 一些注意事项 https://laisky.github.io/style-guide-cn/style-guides/consensuses/
 
-### 进阶阶段
+#### 进阶阶段
 
 1. 值得学习的内建包 https://pymotw.com/3/
 2. 值得了解的第三方包 https://github.com/vinta/awesome-python
 
-### 书籍
+#### 书籍
 
 - https://docs.python.org/3/
 - learning python
@@ -48,7 +48,7 @@
 - 数据结构与算法：Python语言描述
 - PEP
 
-### 笔记
+#### 笔记
 
 1. 元类(metaclass)
 2. 鸭子类型
@@ -67,21 +67,21 @@
 
 ## 数据库
 
-### MySQL
-### MongoDB
-### Redis
-### PostgreSQL
+#### MySQL
+#### MongoDB
+#### Redis
+#### PostgreSQL
 
 
 ## 计算机网络
 
 推荐书籍：《TCP/IP详解》
 
-### TCP/IP
+#### TCP/IP
 
-### HTTP
+#### HTTP
 
-### Cookie和Seesion
+#### Cookie和Seesion
 
 
 
